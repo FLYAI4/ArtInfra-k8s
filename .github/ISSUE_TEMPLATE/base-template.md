@@ -1,7 +1,7 @@
 ---
 name: Base template
 about: Base issue template
-title: "[Ops] 개발망 Kubernetes 인프라 구축"
+title: "[Ops] "
 labels: "\bOps"
 assignees: ''
 
